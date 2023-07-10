@@ -1,0 +1,176 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;700&family=Sanchez&family=Source+Code+Pro&display=swap');*/
+
+/*@import url('https://www.wfonts.com/download/data/2016/06/13/yu-mincho-demibold/yu-mincho-demibold.zip');
+@import url('https://www.wfonts.com/download/data/2016/06/13/yu-gothic/yu-gothic.zip');
+@import url('https://drive.google.com/drive/folders/1vfwE1FWWABsgtkh0bjx9tBVfgfjNb0IB?usp=sharing');
+@import url('https://retro-type.com/PC98/font/pc-9800-bold.ttf');*/
+
+/*
+@font-face {
+  font-family: 'YuGothicUI-Semibold-03';
+  src: url('../YuGothicUI-Semibold-03.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+  DEFAULT
+}
+
+@font-face {
+  font-family: 'Yu Mincho';
+  src: url('../YuMincho-Demibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  ABOUT ME
+}
+
+@font-face {
+  font-family: 'FOT-BabyPopStd-EB';
+  src: url('../FOT-BabyPopStd-EB.otf') format('opentype');
+  font-weight:normal;
+  font-style:normal;
+  ART
+}
+
+@font-face {
+  font-family: 'FOT-HummingStd-D';
+  src: url('../FOT-HummingStd-D.otf') format('opentype');
+  font-weight:normal;
+  font-style:normal;
+  MUSIC
+}
+
+@font-face {
+  font-family: 'FOT-MatisseElegantoPro-B';
+  src: url('../FOT-MatisseElegantoPro-B.otf') format('opentype');
+  font-weight:normal;
+  font-style:normal;
+  TRANSLATIONS
+}
+
+@font-face {
+  font-family: 'pc-9800-bold';
+  src: url('../pc-9800-bold.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+  VIDEO GAME DEVELOPMENT
+}
+
+@font-face {
+  font-family: 'FOT-TsukuBMDMinStd-E';
+  src: url('../FOT-TsukuBMDMinStd-E.otf') format('opentype');
+  font-weight:normal;
+  font-style:normal;
+  WRITING
+}
+*/
+
+/*
+
+@font-face {
+  font-family: 'Stentiga';
+  src: url('/res/Stentiga/stentiga.woff') format('woff'), url('/res/Stentiga/stentiga.ttf') format('ttf');
+}
+
+
+Colors:
+
+Primary: #880e4f
+Primary-Dark: #560027
+Primary Light: #bc477b
+
+Secondary: #263238
+Secondary-Dark: #000a12
+Secondary-Light: #4f5b62
+
+Text: #fafafa
+
+font-family: 'Archivo', sans-serif;
+font-family: 'Sanchez', serif;
+font-family: 'Source Code Pro', monospace;
+*/
+
+
+
+
+
+
+/* BG colors */
+.bg-index-home {
+  background-color: #c48686;
+}
+
+.bg-about {
+  background-color: #af8ccf;
+}
+
+.bg-art {
+  background-color: #d496b2;
+}
+
+.bg-music {
+  background-color: #e7d9ab;
+}
+
+.bg-translations {
+  background-color: #83a2bb;
+}
+
+.bg-videogamedev {
+  background-color: #b2d6af;
+}
+
+.bg-writing {
+  background-color: #eff6fa;
+}
+
+
+/* Text colors */
+.text-color-default{
+  color: #000000;
+  /* font-family: 'Archivo', sans-serif; */
+}
+
+.text-index-home {
+  color: #000000;
+}
+
+.text-about {
+  color: #000000;
+}
+
+.text-art {
+  color: #000000;
+}
+
+.text-music {
+  color: #000000;
+}
+
+.text-translations {
+  color: #000000;
+}
+
+.text-videogamedev {
+  color: #000000;
+}
+
+.text-writing {
+  color: #000000;
+}
+
+/* Font Types
+.font-sserif {
+  font-family: 'Archivo', sans-serif;
+}
+
+.font-serif {
+  font-family: 'Sanchez', serif;
+}
+
+.font-mono {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.font-display {
+  font-family: 'Stentiga';
+}
+*/
