@@ -110,11 +110,11 @@ font-family: 'Source Code Pro', monospace;
   background-color: #e7d9ab;
 }
 
-.bg-translations {
+.bg-editing {
   background-color: #83a2bb;
 }
 
-.bg-videogamedev {
+.bg-videogames {
   background-color: #b2d6af;
 }
 
@@ -145,11 +145,11 @@ font-family: 'Source Code Pro', monospace;
   color: #000000;
 }
 
-.text-translations {
+.text-editing {
   color: #000000;
 }
 
-.text-videogamedev {
+.text-videogames {
   color: #000000;
 }
 
